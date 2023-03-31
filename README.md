@@ -34,9 +34,11 @@ This is an official implementation of [DECOMPL: Decompositional Learning with At
 
 Note: The weights provided are converted to half precision due to size constraints.
 
+```red
 - @article{demirel2023decompl,
 -   title={DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image},
 -   author={Demirel, Berker and Ozkan, Huseyin},
 -   journal={arXiv preprint arXiv:2303.06439},
 -   year={2023}
 - }
+```

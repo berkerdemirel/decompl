@@ -34,35 +34,9 @@ This is an official implementation of [DECOMPL: Decompositional Learning with At
 
 Note: The weights provided are converted to half precision due to size constraints.
 
-
-.bibtex {
-  border: 1px solid #ccc;
-  background-color: #f7f7f7;
-  padding: 10px;
-  margin-bottom: 10px;
-}
-
-.bibtex p {
-  margin: 0;
-  font-size: 16px;
-}
-
-.bibtex em {
-  font-style: italic;
-}
-
-.bibtex .bibtex-field {
-  font-size: 14px;
-  color: #888;
-}
-
-
-<div class="bibtex">
-  <p>
-    Berker Demirel and Huseyin Ozkan.
-    <br>
-    <em>DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image</em>.
-    <br>
-    <span class="bibtex-field">arXiv preprint arXiv:2303.06439</span>, 2023.
-  </p>
-</div>
+- @article{demirel2023decompl,
+-   title={DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image},
+-   author={Demirel, Berker and Ozkan, Huseyin},
+-   journal={arXiv preprint arXiv:2303.06439},
+-   year={2023}
+- }

@@ -34,11 +34,10 @@ This is an official implementation of [DECOMPL: Decompositional Learning with At
 
 Note: The weights provided are converted to half precision due to size constraints.
 
-```diff
-- \textcolor{red}{@article}\{ 
--   \textcolor{purple}{demirel2023decompl},
--   \textcolor{blue}{title}=\{\textcolor{blue}{DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image}\},
--   \textcolor{blue}{author}=\{\textcolor{blue}{Demirel, Berker and Ozkan, Huseyin}\},
--   \textcolor{blue}{journal}=\{\textcolor{blue}{arXiv preprint arXiv:2303.06439}\},
--   \textcolor{blue}{year}=\{\textcolor{blue}{2023}\}
-- \}
+@<font color="red">article</font>{
+<font color="purple">demirel2023decompl</font>,
+<font color="blue">title</font>={<font color="blue">DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image</font>},
+<font color="blue">author</font>={<font color="blue">Demirel, Berker and Ozkan, Huseyin</font>},
+<font color="blue">journal</font>={<font color="blue">arXiv preprint arXiv:2303.06439</font>},
+<font color="blue">year</font>={<font color="blue">2023</font>}
+}

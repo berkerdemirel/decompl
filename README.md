@@ -33,3 +33,10 @@ This is an official implementation of [DECOMPL: Decompositional Learning with At
 4. **Additionally, Training and Validation for Collective Activity Dataset**: Follow the same instructions as for the Volleyball Dataset on the scripts `/scripts/run_model_collective.py` and pretrained weights `checkpoint_weights_collective_half.pth`
 
 Note: The weights provided are converted to half precision due to size constraints.
+
+@article{demirel2023decompl,
+  title={DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image},
+  author={Demirel, Berker and Ozkan, Huseyin},
+  journal={arXiv preprint arXiv:2303.06439},
+  year={2023}
+}

@@ -1,5 +1,9 @@
 # DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image
 
+This is an official implementation of [DECOMPL: Decompositional Learning with Attention Pooling for Group Activity Recognition from a Single Volleyball Image](https://arxiv.org/abs/2303.06439). In this repository, we provide PyTorch code for training and testing as described in the paper. 
+
+!(./figures/model_figure.png)
+
 ## Preparing Dataset
 
 1. Download VD from following link: [Volleyball dataset](https://drive.google.com/drive/folders/1rmsrG1mgkwxOKhsr-QYoi9Ss92wQmCOS).

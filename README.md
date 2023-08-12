@@ -15,7 +15,7 @@ This is an official implementation of [DECOMPL: Decompositional Learning with At
 ## Getting Started
 1. **Conda (Recommended)**: 
     ```shell
-    conda env create -n DECOMPL
+    conda create -n DECOMPL
     conda activate DECOMPL
     ```
 
